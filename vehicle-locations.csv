@@ -1,143 +1,256 @@
-vehicle_id,latitude,longitude,timestamp,description
-Trinidad,37.380133,-5.996914,1519-08-10T10:00:00Z,"Trinidad departs from Seville, Spain."
-Trinidad,36.794,-6.35,1519-08-10T16:00:00Z,"Trinidad arrives in Sanlúcar de Barrameda, Spain."
-Trinidad,36.794,-6.35,1519-09-20T10:00:00Z,"Trinidad departs from Sanlúcar de Barrameda, Spain."
-Trinidad,28.47,-16.23,1519-09-26T09:00:00Z,"Trinidad arrives at Santa Cruz de Tenerife."
-Trinidad,28.47,-16.23,1519-09-29T12:00:00Z,"Trinidad departs from Santa Cruz de Tenerife."
-Trinidad,28.04,-16.54,1519-09-29T18:00:00Z,"Trinidad arrives at 'Monterose'."
-Trinidad,28.04,-16.54,1519-10-03T23:59:59Z,"Trinidad departs from 'Monterose'."
-Trinidad,-8.89,-34.075,1519-11-29T00:00:00Z,"Trinidad in the vicinity of Cape St Augustine."
-Trinidad,-22.86,-43.16,1519-12-13T00:00:00Z,"Trinidad arrives at Rio de Janeiro."
-Trinidad,-22.86,-43.16,1519-12-27T00:00:00Z,"Trinidad departs from Rio de Janeiro."
-Trinidad,-34.7,-54.1,1520-01-10T00:00:00Z,"Trinidad in the vicinity of Cape Santa Maria."
-Trinidad,-36,-56.8,1520-02-07T00:00:00Z,"Trinidad in the vicinity of Cape Santanton."
-Trinidad,-36.9,-56.5,1520-02-08T00:00:00Z,"Trinidad in the vicinity of St. Polonia."
-Trinidad,-49.295,-67.719,1520-03-31T00:00:00Z,"Trinidad arrives at Puerto San Julián."
-Trinidad,-49.295,-67.719,1520-08-24T00:00:00Z,"Trinidad departs from Puerto San Julián."
-Trinidad,-50,-68.5,1520-08-26T00:00:00Z,"Trinidad arrives at Santa Cruz River."
-Trinidad,-50,-68.5,1520-10-18T00:00:00Z,"Trinidad departs from Santa Cruz River."
-Trinidad,-52.4,-68.3,1520-10-21T00:00:00Z,"Trinidad in the vicinity of the Cape of the Eleven Thousand Virgins."
-Trinidad,-52.4,-69,1520-10-21T10:00:00Z,"Trinidad begins waiting in Bahía Posesion."
-Trinidad,-52.4,-69,1520-10-23T14:00:00Z,"Trinidad ends waiting in Bahía Posesion."
-Trinidad,0.65,127.45,1521-11-08T00:00:00Z,"Trinidad reaches Tidore."
-San Antonio,37.380133,-5.996914,1519-08-10T00:00:00Z,"San Antonio departs from Seville, Spain."
-San Antonio,36.794,-6.35,1519-08-10T16:00:00Z,"San Antonio arrives in Sanlúcar de Barrameda, Spain."
-San Antonio,36.794,-6.35,1519-09-20T10:00:00Z,"San Antonio departs from Sanlúcar de Barrameda, Spain."
-San Antonio,28.47,-16.23,1519-09-26T09:00:00Z,"San Antonio arrives at Santa Cruz de Tenerife."
-San Antonio,28.47,-16.23,1519-09-29T12:00:00Z,"San Antonio departs from Santa Cruz de Tenerife."
-San Antonio,28.04,-16.54,1519-09-29T18:00:00Z,"San Antonio arrives at 'Monterose'."
-San Antonio,28.04,-16.54,1519-10-03T23:59:59Z,"San Antonio departs from 'Monterose'."
-San Antonio,-8.89,-34.075,1519-11-29T00:00:00Z,"San Antonio in the vicinity of Cape St Augustine."
-San Antonio,-22.86,-43.16,1519-12-13T00:00:00Z,"San Antonio arrives at Rio de Janeiro."
-San Antonio,-22.86,-43.16,1519-12-27T00:00:00Z,"San Antonio departs from Rio de Janeiro."
-San Antonio,-34.7,-54.1,1520-01-10T00:00:00Z,"San Antonio in the vicinity of Cape Santa Maria."
-San Antonio,-36,-56.8,1520-02-07T00:00:00Z,"San Antonio in the vicinity of Cape Santanton."
-San Antonio,-36.9,-56.5,1520-02-08T00:00:00Z,"San Antonio in the vicinity of St. Polonia."
-San Antonio,-49.295,-67.719,1520-04-01T00:00:00Z,"San Antonio arrives at Puerto San Julián."
-San Antonio,-49.295,-67.719,1520-08-24T00:00:00Z,"San Antonio departs from Puerto San Julián."
-San Antonio,-50,-68.5,1520-08-26T00:00:00Z,"San Antonio arrives at Santa Cruz River."
-San Antonio,-50,-68.5,1520-10-18T00:00:00Z,"San Antonio departs from Santa Cruz River."
-San Antonio,-52.4,-68.3,1520-10-21T00:00:00Z,"San Antonio in the vicinity of the Cape of the Eleven Thousand Virgins."
-San Antonio,-52.4,-69,1520-10-21T10:00:00Z,"San Antonio sails in search of straight near Bahía Posesion."
-San Antonio,-52.5,-69.59,1520-10-21T18:00:00Z,"San Antonio sails westward through Primera Angostura."
-San Antonio,-52.65,-70,1520-10-21T22:00:00Z,"San Antonio sails westward through Bahía San Felipe."
-San Antonio,-52.7,-70.3,1520-10-22T06:00:00Z,"San Antonio sails westward through Segunda Angostura."
-San Antonio,-52.8,-70.5,1520-10-22T09:00:00Z,"San Antonio rounds Cabo San Vicente."
-San Antonio,-52.7,-70.3,1520-10-22T15:00:00Z,"San Antonio sails eastward through Segunda Angostura."
-San Antonio,-52.65,-70,1520-10-22T20:00:00Z,"San Antonio sails eastward through Bahía San Felipe."
-San Antonio,-52.5,-69.59,1520-10-23T10:00:00Z,"San Antonio sails eastward through Primera Angostura."
-San Antonio,-52.4,-69,1520-10-23T12:00:00Z,"San Antonio reunites with Trinidad and Victoria in Bahía Posesion."
-San Antonio,-52.5,-69.59,1520-10-23T14:00:00Z,"San Antonio sails westward through Primera Angostura."
-San Antonio,-52.65,-70,1520-10-24T20:00:00Z,"San Antonio sails westward through Bahía San Felipe."
-San Antonio,-52.7,-70.3,1520-10-25T06:00:00Z,"San Antonio sails westward through Segunda Angostura."
-San Antonio,-52.8,-70.5,1520-10-26T12:00:00Z,"San Antonio rounds Cabo San Vicente."
-San Antonio,-53.5,-70.5,1520-10-28T12:00:00Z,"San Antonio reaches Paso Boquerón."
-San Antonio,-54.3,-70.2,1520-10-29T12:00:00Z,"San Antonio explores Canal Cascada."
-San Antonio,-53.5,-70.5,1520-10-30T12:00:00Z,"San Antonio returns to Paso Boquerón."
-San Antonio,-53.5,-70.5,1520-10-31T12:00:00Z,"San Antonio mutinies begins to return to Spain."
-San Antonio,-52.8,-70.5,1520-10-31T20:00:00Z,"San Antonio rounds Cabo San Vicente."
-San Antonio,-52.7,-70.3,1520-11-01T15:00:00Z,"San Antonio sails eastward through Segunda Angostura."
-San Antonio,-52.65,-70,1520-11-01T20:00:00Z,"San Antonio sails eastward through Bahía San Felipe."
-San Antonio,-52.5,-69.59,1520-11-02T10:00:00Z,"San Antonio sails eastward through Primera Angostura."
-San Antonio,-52.4,-69,1520-11-02T12:00:00Z,"San Antonio sails eastward in Bahía Posesion."
-San Antonio,-52.4,-68.3,1520-11-03T00:00:00Z,"San Antonio in the vicinity of the Cape of the Eleven Thousand Virgins."
-San Antonio,-52.4,-68.3,1520-11-06T00:00:00Z,"San Antonio in the vicinity of the Santa Cruz River."
-San Antonio,-49.22,-67.6,1520-11-08T00:00:00Z,"San Antonio in the vicinity of Puerto San Julián."
-San Antonio,-36.9,-56.5,1520-12-30T00:00:00Z,"San Antonio in the vicinity of St. Polonia."
-San Antonio,-36,-56.8,1520-12-31T00:00:00Z,"San Antonio in the vicinity of Cape Santanton."
-San Antonio,-34.7,-54.1,1521-01-28T00:00:00Z,"San Antonio in the vicinity of Cape Santa Maria."
-San Antonio,-22.86,-43.16,1521-02-11T00:00:00Z,"San Antonio arrives at Rio de Janeiro."
-San Antonio,-22.86,-43.16,1521-02-25T00:00:00Z,"San Antonio departs from Rio de Janeiro."
-San Antonio,-8.89,-34.075,1521-03-11T00:00:00Z,"San Antonio in the vicinity of Cape St Augustine."
-San Antonio,28.47,-16.23,1521-05-07T00:00:00Z,"San Antonio arrives at Santa Cruz de Tenerife."
-San Antonio,28.47,-16.23,1521-05-08T00:00:00Z,"San Antonio departs from Santa Cruz de Tenerife."
-San Antonio,36.794,-6.35,1521-05-14T00:00:00Z,"San Antonio arrives in Sanlúcar de Barrameda, Spain."
-San Antonio,36.794,-6.35,1521-05-15T00:00:00Z,"San Antonio departs from Sanlúcar de Barrameda, Spain."
-San Antonio,37.380133,-5.996914,1521-05-21T00:00:00Z,"San Antonio returns to Seville, Spain."
-Concepción,37.380133,-5.996914,1519-08-10T00:00:00Z,"Concepción departs from Seville, Spain."
-Concepción,36.794,-6.35,1519-08-10T16:00:00Z,"Concepción arrives in Sanlúcar de Barrameda, Spain."
-Concepción,36.794,-6.35,1519-09-20T10:00:00Z,"Concepción departs from Sanlúcar de Barrameda, Spain."
-Concepción,28.47,-16.23,1519-09-26T09:00:00Z,"Concepción arrives at Santa Cruz de Tenerife."
-Concepción,28.47,-16.23,1519-09-29T12:00:00Z,"Concepción departs from Santa Cruz de Tenerife."
-Concepción,28.04,-16.54,1519-09-29T18:00:00Z,"Concepción arrives at 'Monterose'."
-Concepción,28.04,-16.54,1519-10-03T23:59:59Z,"Concepción departs from 'Monterose'."
-Concepción,-8.89,-34.075,1519-11-29T00:00:00Z,"Concepción in the vicinity of Cape St Augustine."
-Concepción,-22.86,-43.16,1519-12-13T00:00:00Z,"Concepción arrives at Rio de Janeiro."
-Concepción,-22.86,-43.16,1519-12-27T00:00:00Z,"Concepción departs from Rio de Janeiro."
-Concepción,-34.7,-54.1,1520-01-10T00:00:00Z,"Concepción in the vicinity of Cape Santa Maria."
-Concepción,-36,-56.8,1520-02-07T00:00:00Z,"Concepción in the vicinity of Cape Santanton."
-Concepción,-36.9,-56.5,1520-02-08T00:00:00Z,"Concepción in the vicinity of St. Polonia."
-Concepción,-49.295,-67.719,1520-03-31T00:00:00Z,"Concepción arrives at Puerto San Julián."
-Concepción,-49.295,-67.719,1520-08-24T00:00:00Z,"Concepción departs from Puerto San Julián."
-Concepción,-50,-68.5,1520-08-26T00:00:00Z,"Concepción arrives at Santa Cruz River."
-Concepción,-50,-68.5,1520-10-18T00:00:00Z,"Concepción departs from Santa Cruz River."
-Concepción,-52.4,-68.3,1520-10-21T00:00:00Z,"Concepción in the vicinity of the Cape of the Eleven Thousand Virgins."
-Concepción,-52.4,-69,1520-10-21T10:00:00Z,"Concepción sails in search of straight near Bahía Posesion."
-Concepción,-52.5,-69.59,1520-10-21T18:00:00Z,"Concepción sails westward through Primera Angostura."
-Concepción,-52.65,-70,1520-10-21T22:00:00Z,"Concepción sails westward through Bahía San Felipe."
-Concepción,-52.7,-70.3,1520-10-22T06:00:00Z,"Concepción sails westward through Segunda Angostura."
-Concepción,-52.8,-70.5,1520-10-22T09:00:00Z,"Concepción rounds Cabo San Vicente."
-Concepción,-52.7,-70.3,1520-10-22T15:00:00Z,"Concepción sails eastward through Segunda Angostura."
-Concepción,-52.65,-70,1520-10-22T20:00:00Z,"Concepción sails eastward through Bahía San Felipe."
-Concepción,-52.5,-69.59,1520-10-23T10:00:00Z,"Concepción sails eastward through Primera Angostura."
-Concepción,-52.4,-69,1520-10-23T12:00:00Z,"Concepción reunites with Trinidad and Victoria in Bahía Posesion."
-Concepción,9.99,123.9,1521-04-27T00:00:00Z,"Concepción in the Philippines before being scuttled."
-Santiago,37.380133,-5.996914,1519-08-10T00:00:00Z,"Santiago departs from Seville, Spain."
-Santiago,36.794,-6.35,1519-08-10T16:00:00Z,"Santiago arrives in Sanlúcar de Barrameda, Spain."
-Santiago,36.794,-6.35,1519-09-20T10:00:00Z,"Santiago departs from Sanlúcar de Barrameda, Spain."
-Santiago,28.47,-16.23,1519-09-26T09:00:00Z,"Santiago arrives at Santa Cruz de Tenerife."
-Santiago,28.47,-16.23,1519-09-29T12:00:00Z,"Santiago departs from Santa Cruz de Tenerife."
-Santiago,28.04,-16.54,1519-09-29T18:00:00Z,"Santiago arrives at 'Monterose'."
-Santiago,28.04,-16.54,1519-10-03T23:59:59Z,"Santiago departs from 'Monterose'."
-Santiago,-8.89,-34.075,1519-11-29T00:00:00Z,"Santiago in the vicinity of Cape St Augustine."
-Santiago,-22.86,-43.16,1519-12-13T00:00:00Z,"Santiago arrives at Rio de Janeiro."
-Santiago,-22.86,-43.16,1519-12-27T00:00:00Z,"Santiago departs from Rio de Janeiro."
-Santiago,-34.7,-54.1,1520-01-10T00:00:00Z,"Santiago in the vicinity of Cape Santa Maria."
-Santiago,-36,-56.8,1520-02-07T00:00:00Z,"Santiago in the vicinity of Cape Santanton."
-Santiago,-36.9,-56.5,1520-02-08T00:00:00Z,"Santiago in the vicinity of St. Polonia."
-Santiago,-49.295,-67.719,1520-03-31T00:00:00Z,"Santiago arrives at Puerto San Julián."
-Santiago,-50.125,-68.3,1520-05-03T00:00:00Z,"Santiago wrecks near the Santa Cruz River."
-Victoria,37.380133,-5.996914,1519-08-10T00:00:00Z,"Victoria departs from Seville, Spain."
-Victoria,36.794,-6.35,1519-08-10T16:00:00Z,"Victoria arrives in Sanlúcar de Barrameda, Spain."
-Victoria,36.794,-6.35,1519-09-20T10:00:00Z,"Victoria departs from Sanlúcar de Barrameda, Spain."
-Victoria,28.47,-16.23,1519-09-26T09:00:00Z,"Victoria arrives at Santa Cruz de Tenerife."
-Victoria,28.47,-16.23,1519-09-29T12:00:00Z,"Victoria departs from Santa Cruz de Tenerife."
-Victoria,28.04,-16.54,1519-09-29T18:00:00Z,"Victoria arrives at 'Monterose'."
-Victoria,28.04,-16.54,1519-10-03T23:59:59Z,"Victoria departs from 'Monterose'."
-Victoria,-8.89,-34.075,1519-11-29T00:00:00Z,"Victoria in the vicinity of Cape St Augustine."
-Victoria,-22.86,-43.16,1519-12-13T00:00:00Z,"Victoria arrives at Rio de Janeiro."
-Victoria,-22.86,-43.16,1519-12-27T00:00:00Z,"Victoria departs from Rio de Janeiro."
-Victoria,-34.7,-54.1,1520-01-10T00:00:00Z,"Victoria in the vicinity of Cape Santa Maria."
-Victoria,-36,-56.8,1520-02-07T00:00:00Z,"Victoria in the vicinity of Cape Santanton."
-Victoria,-36.9,-56.5,1520-02-08T00:00:00Z,"Victoria in the vicinity of St. Polonia."
-Victoria,-49.295,-67.719,1520-03-31T00:00:00Z,"Victoria arrives at Puerto San Julián."
-Victoria,-49.295,-67.719,1520-08-24T00:00:00Z,"Victoria departs from Puerto San Julián."
-Victoria,-50,-68.5,1520-08-26T00:00:00Z,"Victoria arrives at Santa Cruz River."
-Victoria,-50,-68.5,1520-10-18T00:00:00Z,"Victoria departs from Santa Cruz River."
-Victoria,-52.4,-68.3,1520-10-21T00:00:00Z,"Victoria in the vicinity of the Cape of the Eleven Thousand Virgins."
-Victoria,-52.4,-69,1520-10-21T10:00:00Z,"Victoria begins waiting in Bahía Posesion."
-Victoria,-52.4,-69,1520-10-23T14:00:00Z,"Victoria ends waiting in Bahía Posesion."
-Victoria,10.315,123.94,1521-04-27T00:00:00Z,"Victoria in the Philippines, continues journey after Magellan's death."
-Victoria,0.65,127.45,1521-11-08T00:00:00Z,"Victoria reaches Tidore."
-Victoria,0.65,127.45,1521-12-21T00:00:00Z,"Victoria leaves Tidore."
-Victoria,37.380133,-5.996914,1522-09-08T00:00:00Z,"Victoria returns to Seville, Spain, completing the circumnavigation."
+vehicle_id,latitude,longitude,timestamp,description,research_source
+Concepción,37.380133,-5.996914,1519-08-10T00:00:00Z,"Concepción departs from Seville, Spain.",Evan Siroky manual entry
+Concepción,36.794,-6.35,1519-08-10T16:00:00Z,"Concepción arrives in Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Concepción,36.794,-6.35,1519-09-20T10:00:00Z,"Concepción departs from Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Concepción,28.47,-16.23,1519-09-26T09:00:00Z,Concepción arrives at Santa Cruz de Tenerife.,Evan Siroky manual entry
+Concepción,28.47,-16.23,1519-09-29T12:00:00Z,Concepción departs from Santa Cruz de Tenerife.,Evan Siroky manual entry
+Concepción,28.04,-16.54,1519-09-29T18:00:00Z,Concepción arrives at 'Monterose'.,Evan Siroky manual entry
+Concepción,28.04,-16.54,1519-10-03T23:59:59Z,Concepción departs from 'Monterose'.,Evan Siroky manual entry
+Concepción,14.9,-23.5,1519-10-18T00:00:00Z,Concepción passes near the Cape Verde Islands without sighting them.,AI-assisted approximation
+Concepción,4,-24,1519-11-08T00:00:00Z,Concepción reaches about 4 degrees north in the Atlantic before turning southwest toward Brazil.,AI-assisted approximation
+Concepción,-8.89,-34.075,1519-11-29T00:00:00Z,Concepción in the vicinity of Cape St Augustine.,Evan Siroky manual entry
+Concepción,-22.88,-42.02,1519-12-09T00:00:00Z,Concepción passes Cape Frio before entering Rio de Janeiro.,AI-assisted approximation
+Concepción,-22.86,-43.16,1519-12-13T00:00:00Z,Concepción arrives at Rio de Janeiro.,Evan Siroky manual entry
+Concepción,-22.86,-43.16,1519-12-27T00:00:00Z,Concepción departs from Rio de Janeiro.,Evan Siroky manual entry
+Concepción,-34.7,-54.1,1520-01-10T00:00:00Z,Concepción in the vicinity of Cape Santa Maria.,Evan Siroky manual entry
+Concepción,-35.1,-56.4,1520-02-02T00:00:00Z,"Concepción leaves the River of Saint Christopher, interpreted as the Rio de la Plata.",AI-assisted approximation
+Concepción,-36,-56.8,1520-02-07T00:00:00Z,Concepción in the vicinity of Cape Santanton.,Evan Siroky manual entry
+Concepción,-36.9,-56.5,1520-02-08T00:00:00Z,Concepción in the vicinity of St. Polonia.,Evan Siroky manual entry
+Concepción,-39,-58,1520-02-15T00:00:00Z,Concepción passes shoals named Shoals of the Currents at about 39 degrees south.,AI-assisted approximation
+Concepción,-45.8,-66.7,1520-03-05T00:00:00Z,Concepción works south along the Patagonian coast toward Port Saint Julian.,AI-assisted approximation
+Concepción,-49.295,-67.719,1520-03-31T00:00:00Z,Concepción arrives at Puerto San Julián.,Evan Siroky manual entry
+Concepción,-49.295,-67.719,1520-08-24T00:00:00Z,Concepción departs from Puerto San Julián.,Evan Siroky manual entry
+Concepción,-50,-68.5,1520-08-26T00:00:00Z,Concepción arrives at Santa Cruz River.,Evan Siroky manual entry
+Concepción,-50,-68.5,1520-10-18T00:00:00Z,Concepción departs from Santa Cruz River.,Evan Siroky manual entry
+Concepción,-52.4,-68.3,1520-10-21T00:00:00Z,Concepción in the vicinity of the Cape of the Eleven Thousand Virgins.,Evan Siroky manual entry
+Concepción,-52.4,-69,1520-10-21T10:00:00Z,Concepción sails in search of straight near Bahía Posesion.,Evan Siroky manual entry
+Concepción,-52.5,-69.59,1520-10-21T18:00:00Z,Concepción sails westward through Primera Angostura.,Evan Siroky manual entry
+Concepción,-52.65,-70,1520-10-21T22:00:00Z,Concepción sails westward through Bahía San Felipe.,Evan Siroky manual entry
+Concepción,-52.7,-70.3,1520-10-22T06:00:00Z,Concepción sails westward through Segunda Angostura.,Evan Siroky manual entry
+Concepción,-52.8,-70.5,1520-10-22T09:00:00Z,Concepción rounds Cabo San Vicente.,Evan Siroky manual entry
+Concepción,-52.7,-70.3,1520-10-22T15:00:00Z,Concepción sails eastward through Segunda Angostura.,Evan Siroky manual entry
+Concepción,-52.65,-70,1520-10-22T20:00:00Z,Concepción sails eastward through Bahía San Felipe.,Evan Siroky manual entry
+Concepción,-52.5,-69.59,1520-10-23T10:00:00Z,Concepción sails eastward through Primera Angostura.,Evan Siroky manual entry
+Concepción,-52.4,-69,1520-10-23T12:00:00Z,Concepción reunites with Trinidad and Victoria in Bahía Posesion.,Evan Siroky manual entry
+Concepción,-53.15,-70.9,1520-11-01T00:00:00Z,Concepción advances into the Strait of Magellan after the first narrows.,AI-assisted approximation
+Concepción,-53.45,-72.1,1520-11-10T00:00:00Z,Concepción proceeds through the central Strait of Magellan.,AI-assisted approximation
+Concepción,-53.85,-73.7,1520-11-21T00:00:00Z,Concepción approaches the western channels and Cape Desire.,AI-assisted approximation
+Concepción,-52.7,-74.7,1520-11-28T00:00:00Z,Concepción exits the Strait of Magellan into the Pacific.,AI-assisted approximation
+Concepción,-15,-138.8,1521-01-24T00:00:00Z,Concepción sights San Pablo Island during the Pacific crossing.,AI-assisted approximation
+Concepción,-11.4,-151.8,1521-02-04T00:00:00Z,Concepción sights Tiburones Island during the Pacific crossing.,AI-assisted approximation
+Concepción,13.3,144.65,1521-03-06T00:00:00Z,"Concepción arrives at the Ladrones, interpreted as Guam.",AI-assisted approximation
+Concepción,13.3,144.65,1521-03-09T00:00:00Z,Concepción departs the Ladrones after recovering the ship's skiff.,AI-assisted approximation
+Concepción,10.75,125.72,1521-03-16T00:00:00Z,Concepción reaches the Archipelago of Saint Lazarus at Homonhon.,AI-assisted approximation
+Concepción,9.94,125.07,1521-03-28T00:00:00Z,"Concepción reaches Mazzava, interpreted as Limasawa.",AI-assisted approximation
+Concepción,9.94,125.07,1521-03-31T00:00:00Z,Concepción remains at Mazzava for Easter mass and route arrangements.,AI-assisted approximation
+Concepción,10.315,123.94,1521-04-07T12:00:00Z,Concepción enters the port of Cebu.,AI-assisted approximation
+Concepción,9.99,123.9,1521-04-27T00:00:00Z,Concepción in the Philippines before being scuttled.,Evan Siroky manual entry
+Concepción,10.31,123.97,1521-04-27T06:00:00Z,Concepción lies off Mactan during the battle in which Magellan is killed.,AI-assisted approximation
+Concepción,10.315,123.94,1521-05-01T00:00:00Z,Concepción is at Cebu during the massacre of expedition officers.,AI-assisted approximation
+Concepción,9.8,124.2,1521-05-02T00:00:00Z,Concepción is burned near Bohol so the remaining crews can man two ships.,AI-assisted approximation
+San Antonio,37.380133,-5.996914,1519-08-10T00:00:00Z,"San Antonio departs from Seville, Spain.",Evan Siroky manual entry
+San Antonio,36.794,-6.35,1519-08-10T16:00:00Z,"San Antonio arrives in Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+San Antonio,36.794,-6.35,1519-09-20T10:00:00Z,"San Antonio departs from Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+San Antonio,28.47,-16.23,1519-09-26T09:00:00Z,San Antonio arrives at Santa Cruz de Tenerife.,Evan Siroky manual entry
+San Antonio,28.47,-16.23,1519-09-29T12:00:00Z,San Antonio departs from Santa Cruz de Tenerife.,Evan Siroky manual entry
+San Antonio,28.04,-16.54,1519-09-29T18:00:00Z,San Antonio arrives at 'Monterose'.,Evan Siroky manual entry
+San Antonio,28.04,-16.54,1519-10-03T23:59:59Z,San Antonio departs from 'Monterose'.,Evan Siroky manual entry
+San Antonio,14.9,-23.5,1519-10-18T00:00:00Z,San Antonio passes near the Cape Verde Islands without sighting them.,AI-assisted approximation
+San Antonio,4,-24,1519-11-08T00:00:00Z,San Antonio reaches about 4 degrees north in the Atlantic before turning southwest toward Brazil.,AI-assisted approximation
+San Antonio,-8.89,-34.075,1519-11-29T00:00:00Z,San Antonio in the vicinity of Cape St Augustine.,Evan Siroky manual entry
+San Antonio,-22.88,-42.02,1519-12-09T00:00:00Z,San Antonio passes Cape Frio before entering Rio de Janeiro.,AI-assisted approximation
+San Antonio,-22.86,-43.16,1519-12-13T00:00:00Z,San Antonio arrives at Rio de Janeiro.,Evan Siroky manual entry
+San Antonio,-22.86,-43.16,1519-12-27T00:00:00Z,San Antonio departs from Rio de Janeiro.,Evan Siroky manual entry
+San Antonio,-34.7,-54.1,1520-01-10T00:00:00Z,San Antonio in the vicinity of Cape Santa Maria.,Evan Siroky manual entry
+San Antonio,-35.1,-56.4,1520-02-02T00:00:00Z,"San Antonio leaves the River of Saint Christopher, interpreted as the Rio de la Plata.",AI-assisted approximation
+San Antonio,-36,-56.8,1520-02-07T00:00:00Z,San Antonio in the vicinity of Cape Santanton.,Evan Siroky manual entry
+San Antonio,-36.9,-56.5,1520-02-08T00:00:00Z,San Antonio in the vicinity of St. Polonia.,Evan Siroky manual entry
+San Antonio,-39,-58,1520-02-15T00:00:00Z,San Antonio passes shoals named Shoals of the Currents at about 39 degrees south.,AI-assisted approximation
+San Antonio,-45.8,-66.7,1520-03-05T00:00:00Z,San Antonio works south along the Patagonian coast toward Port Saint Julian.,AI-assisted approximation
+San Antonio,-49.295,-67.719,1520-04-01T00:00:00Z,San Antonio arrives at Puerto San Julián.,Evan Siroky manual entry
+San Antonio,-49.295,-67.719,1520-08-24T00:00:00Z,San Antonio departs from Puerto San Julián.,Evan Siroky manual entry
+San Antonio,-50,-68.5,1520-08-26T00:00:00Z,San Antonio arrives at Santa Cruz River.,Evan Siroky manual entry
+San Antonio,-50,-68.5,1520-10-18T00:00:00Z,San Antonio departs from Santa Cruz River.,Evan Siroky manual entry
+San Antonio,-52.4,-68.3,1520-10-21T00:00:00Z,San Antonio in the vicinity of the Cape of the Eleven Thousand Virgins.,Evan Siroky manual entry
+San Antonio,-52.4,-69,1520-10-21T10:00:00Z,San Antonio sails in search of straight near Bahía Posesion.,Evan Siroky manual entry
+San Antonio,-52.5,-69.59,1520-10-21T18:00:00Z,San Antonio sails westward through Primera Angostura.,Evan Siroky manual entry
+San Antonio,-52.65,-70,1520-10-21T22:00:00Z,San Antonio sails westward through Bahía San Felipe.,Evan Siroky manual entry
+San Antonio,-52.7,-70.3,1520-10-22T06:00:00Z,San Antonio sails westward through Segunda Angostura.,Evan Siroky manual entry
+San Antonio,-52.8,-70.5,1520-10-22T09:00:00Z,San Antonio rounds Cabo San Vicente.,Evan Siroky manual entry
+San Antonio,-52.7,-70.3,1520-10-22T15:00:00Z,San Antonio sails eastward through Segunda Angostura.,Evan Siroky manual entry
+San Antonio,-52.65,-70,1520-10-22T20:00:00Z,San Antonio sails eastward through Bahía San Felipe.,Evan Siroky manual entry
+San Antonio,-52.5,-69.59,1520-10-23T10:00:00Z,San Antonio sails eastward through Primera Angostura.,Evan Siroky manual entry
+San Antonio,-52.4,-69,1520-10-23T12:00:00Z,San Antonio reunites with Trinidad and Victoria in Bahía Posesion.,Evan Siroky manual entry
+San Antonio,-52.5,-69.59,1520-10-23T14:00:00Z,San Antonio sails westward through Primera Angostura.,Evan Siroky manual entry
+San Antonio,-52.65,-70,1520-10-24T20:00:00Z,San Antonio sails westward through Bahía San Felipe.,Evan Siroky manual entry
+San Antonio,-52.7,-70.3,1520-10-25T06:00:00Z,San Antonio sails westward through Segunda Angostura.,Evan Siroky manual entry
+San Antonio,-52.8,-70.5,1520-10-26T12:00:00Z,San Antonio rounds Cabo San Vicente.,Evan Siroky manual entry
+San Antonio,-53.5,-70.5,1520-10-28T12:00:00Z,San Antonio reaches Paso Boquerón.,Evan Siroky manual entry
+San Antonio,-54.3,-70.2,1520-10-29T12:00:00Z,San Antonio explores Canal Cascada.,Evan Siroky manual entry
+San Antonio,-53.5,-70.5,1520-10-30T12:00:00Z,San Antonio returns to Paso Boquerón.,Evan Siroky manual entry
+San Antonio,-53.5,-70.5,1520-10-31T12:00:00Z,San Antonio mutinies begins to return to Spain.,Evan Siroky manual entry
+San Antonio,-52.8,-70.5,1520-10-31T20:00:00Z,San Antonio rounds Cabo San Vicente.,Evan Siroky manual entry
+San Antonio,-52.7,-70.3,1520-11-01T15:00:00Z,San Antonio sails eastward through Segunda Angostura.,Evan Siroky manual entry
+San Antonio,-52.65,-70,1520-11-01T20:00:00Z,San Antonio sails eastward through Bahía San Felipe.,Evan Siroky manual entry
+San Antonio,-52.5,-69.59,1520-11-02T10:00:00Z,San Antonio sails eastward through Primera Angostura.,Evan Siroky manual entry
+San Antonio,-52.4,-69,1520-11-02T12:00:00Z,San Antonio sails eastward in Bahía Posesion.,Evan Siroky manual entry
+San Antonio,-52.4,-68.3,1520-11-03T00:00:00Z,San Antonio in the vicinity of the Cape of the Eleven Thousand Virgins.,Evan Siroky manual entry
+San Antonio,-52.4,-68.3,1520-11-06T00:00:00Z,San Antonio in the vicinity of the Santa Cruz River.,Evan Siroky manual entry
+San Antonio,-49.22,-67.6,1520-11-08T00:00:00Z,San Antonio in the vicinity of Puerto San Julián.,Evan Siroky manual entry
+San Antonio,-36.9,-56.5,1520-12-30T00:00:00Z,San Antonio in the vicinity of St. Polonia.,Evan Siroky manual entry
+San Antonio,-36,-56.8,1520-12-31T00:00:00Z,San Antonio in the vicinity of Cape Santanton.,Evan Siroky manual entry
+San Antonio,-34.7,-54.1,1521-01-28T00:00:00Z,San Antonio in the vicinity of Cape Santa Maria.,Evan Siroky manual entry
+San Antonio,-22.86,-43.16,1521-02-11T00:00:00Z,San Antonio arrives at Rio de Janeiro.,Evan Siroky manual entry
+San Antonio,-22.86,-43.16,1521-02-25T00:00:00Z,San Antonio departs from Rio de Janeiro.,Evan Siroky manual entry
+San Antonio,-8.89,-34.075,1521-03-11T00:00:00Z,San Antonio in the vicinity of Cape St Augustine.,Evan Siroky manual entry
+San Antonio,28.47,-16.23,1521-05-07T00:00:00Z,San Antonio arrives at Santa Cruz de Tenerife.,Evan Siroky manual entry
+San Antonio,28.47,-16.23,1521-05-08T00:00:00Z,San Antonio departs from Santa Cruz de Tenerife.,Evan Siroky manual entry
+San Antonio,36.794,-6.35,1521-05-14T00:00:00Z,"San Antonio arrives in Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+San Antonio,36.794,-6.35,1521-05-15T00:00:00Z,"San Antonio departs from Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+San Antonio,37.380133,-5.996914,1521-05-21T00:00:00Z,"San Antonio returns to Seville, Spain.",Evan Siroky manual entry
+Santiago,37.380133,-5.996914,1519-08-10T00:00:00Z,"Santiago departs from Seville, Spain.",Evan Siroky manual entry
+Santiago,36.794,-6.35,1519-08-10T16:00:00Z,"Santiago arrives in Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Santiago,36.794,-6.35,1519-09-20T10:00:00Z,"Santiago departs from Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Santiago,28.47,-16.23,1519-09-26T09:00:00Z,Santiago arrives at Santa Cruz de Tenerife.,Evan Siroky manual entry
+Santiago,28.47,-16.23,1519-09-29T12:00:00Z,Santiago departs from Santa Cruz de Tenerife.,Evan Siroky manual entry
+Santiago,28.04,-16.54,1519-09-29T18:00:00Z,Santiago arrives at 'Monterose'.,Evan Siroky manual entry
+Santiago,28.04,-16.54,1519-10-03T23:59:59Z,Santiago departs from 'Monterose'.,Evan Siroky manual entry
+Santiago,14.9,-23.5,1519-10-18T00:00:00Z,Santiago passes near the Cape Verde Islands without sighting them.,AI-assisted approximation
+Santiago,4,-24,1519-11-08T00:00:00Z,Santiago reaches about 4 degrees north in the Atlantic before turning southwest toward Brazil.,AI-assisted approximation
+Santiago,-8.89,-34.075,1519-11-29T00:00:00Z,Santiago in the vicinity of Cape St Augustine.,Evan Siroky manual entry
+Santiago,-22.88,-42.02,1519-12-09T00:00:00Z,Santiago passes Cape Frio before entering Rio de Janeiro.,AI-assisted approximation
+Santiago,-22.86,-43.16,1519-12-13T00:00:00Z,Santiago arrives at Rio de Janeiro.,Evan Siroky manual entry
+Santiago,-22.86,-43.16,1519-12-27T00:00:00Z,Santiago departs from Rio de Janeiro.,Evan Siroky manual entry
+Santiago,-34.7,-54.1,1520-01-10T00:00:00Z,Santiago in the vicinity of Cape Santa Maria.,Evan Siroky manual entry
+Santiago,-35.1,-56.4,1520-02-02T00:00:00Z,"Santiago leaves the River of Saint Christopher, interpreted as the Rio de la Plata.",AI-assisted approximation
+Santiago,-36,-56.8,1520-02-07T00:00:00Z,Santiago in the vicinity of Cape Santanton.,Evan Siroky manual entry
+Santiago,-36.9,-56.5,1520-02-08T00:00:00Z,Santiago in the vicinity of St. Polonia.,Evan Siroky manual entry
+Santiago,-39,-58,1520-02-15T00:00:00Z,Santiago passes shoals named Shoals of the Currents at about 39 degrees south.,AI-assisted approximation
+Santiago,-45.8,-66.7,1520-03-05T00:00:00Z,Santiago works south along the Patagonian coast toward Port Saint Julian.,AI-assisted approximation
+Santiago,-49.295,-67.719,1520-03-31T00:00:00Z,Santiago arrives at Puerto San Julián.,Evan Siroky manual entry
+Santiago,-49.295,-67.719,1520-04-25T00:00:00Z,Santiago departs Port Saint Julian on reconnaissance.,AI-assisted approximation
+Santiago,-50.125,-68.3,1520-05-03T00:00:00Z,Santiago wrecks near the Santa Cruz River.,Evan Siroky manual entry
+Santiago,-50.125,-68.3,1520-05-03T12:00:00Z,Santiago is wrecked during reconnaissance near the Santa Cruz River.,AI-assisted approximation
+Trinidad,37.380133,-5.996914,1519-08-10T10:00:00Z,"Trinidad departs from Seville, Spain.",Evan Siroky manual entry
+Trinidad,36.794,-6.35,1519-08-10T16:00:00Z,"Trinidad arrives in Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Trinidad,36.794,-6.35,1519-09-20T10:00:00Z,"Trinidad departs from Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Trinidad,28.47,-16.23,1519-09-26T09:00:00Z,Trinidad arrives at Santa Cruz de Tenerife.,Evan Siroky manual entry
+Trinidad,28.47,-16.23,1519-09-29T12:00:00Z,Trinidad departs from Santa Cruz de Tenerife.,Evan Siroky manual entry
+Trinidad,28.04,-16.54,1519-09-29T18:00:00Z,Trinidad arrives at 'Monterose'.,Evan Siroky manual entry
+Trinidad,28.04,-16.54,1519-10-03T23:59:59Z,Trinidad departs from 'Monterose'.,Evan Siroky manual entry
+Trinidad,14.9,-23.5,1519-10-18T00:00:00Z,Trinidad passes near the Cape Verde Islands without sighting them.,AI-assisted approximation
+Trinidad,4,-24,1519-11-08T00:00:00Z,Trinidad reaches about 4 degrees north in the Atlantic before turning southwest toward Brazil.,AI-assisted approximation
+Trinidad,-8.89,-34.075,1519-11-29T00:00:00Z,Trinidad in the vicinity of Cape St Augustine.,Evan Siroky manual entry
+Trinidad,-22.88,-42.02,1519-12-09T00:00:00Z,Trinidad passes Cape Frio before entering Rio de Janeiro.,AI-assisted approximation
+Trinidad,-22.86,-43.16,1519-12-13T00:00:00Z,Trinidad arrives at Rio de Janeiro.,Evan Siroky manual entry
+Trinidad,-22.86,-43.16,1519-12-27T00:00:00Z,Trinidad departs from Rio de Janeiro.,Evan Siroky manual entry
+Trinidad,-34.7,-54.1,1520-01-10T00:00:00Z,Trinidad in the vicinity of Cape Santa Maria.,Evan Siroky manual entry
+Trinidad,-35.1,-56.4,1520-02-02T00:00:00Z,"Trinidad leaves the River of Saint Christopher, interpreted as the Rio de la Plata.",AI-assisted approximation
+Trinidad,-36,-56.8,1520-02-07T00:00:00Z,Trinidad in the vicinity of Cape Santanton.,Evan Siroky manual entry
+Trinidad,-36.9,-56.5,1520-02-08T00:00:00Z,Trinidad in the vicinity of St. Polonia.,Evan Siroky manual entry
+Trinidad,-39,-58,1520-02-15T00:00:00Z,Trinidad passes shoals named Shoals of the Currents at about 39 degrees south.,AI-assisted approximation
+Trinidad,-45.8,-66.7,1520-03-05T00:00:00Z,Trinidad works south along the Patagonian coast toward Port Saint Julian.,AI-assisted approximation
+Trinidad,-49.295,-67.719,1520-03-31T00:00:00Z,Trinidad arrives at Puerto San Julián.,Evan Siroky manual entry
+Trinidad,-49.295,-67.719,1520-08-24T00:00:00Z,Trinidad departs from Puerto San Julián.,Evan Siroky manual entry
+Trinidad,-50,-68.5,1520-08-26T00:00:00Z,Trinidad arrives at Santa Cruz River.,Evan Siroky manual entry
+Trinidad,-50,-68.5,1520-10-18T00:00:00Z,Trinidad departs from Santa Cruz River.,Evan Siroky manual entry
+Trinidad,-52.4,-68.3,1520-10-21T00:00:00Z,Trinidad in the vicinity of the Cape of the Eleven Thousand Virgins.,Evan Siroky manual entry
+Trinidad,-52.4,-69,1520-10-21T10:00:00Z,Trinidad begins waiting in Bahía Posesion.,Evan Siroky manual entry
+Trinidad,-52.4,-69,1520-10-23T14:00:00Z,Trinidad ends waiting in Bahía Posesion.,Evan Siroky manual entry
+Trinidad,-53.15,-70.9,1520-11-01T00:00:00Z,Trinidad advances into the Strait of Magellan after the first narrows.,AI-assisted approximation
+Trinidad,-53.45,-72.1,1520-11-10T00:00:00Z,Trinidad proceeds through the central Strait of Magellan.,AI-assisted approximation
+Trinidad,-53.85,-73.7,1520-11-21T00:00:00Z,Trinidad approaches the western channels and Cape Desire.,AI-assisted approximation
+Trinidad,-52.7,-74.7,1520-11-28T00:00:00Z,Trinidad exits the Strait of Magellan into the Pacific.,AI-assisted approximation
+Trinidad,-15,-138.8,1521-01-24T00:00:00Z,Trinidad sights San Pablo Island during the Pacific crossing.,AI-assisted approximation
+Trinidad,-11.4,-151.8,1521-02-04T00:00:00Z,Trinidad sights Tiburones Island during the Pacific crossing.,AI-assisted approximation
+Trinidad,13.3,144.65,1521-03-06T00:00:00Z,"Trinidad arrives at the Ladrones, interpreted as Guam.",AI-assisted approximation
+Trinidad,13.3,144.65,1521-03-09T00:00:00Z,Trinidad departs the Ladrones after recovering the ship's skiff.,AI-assisted approximation
+Trinidad,10.75,125.72,1521-03-16T00:00:00Z,Trinidad reaches the Archipelago of Saint Lazarus at Homonhon.,AI-assisted approximation
+Trinidad,9.94,125.07,1521-03-28T00:00:00Z,"Trinidad reaches Mazzava, interpreted as Limasawa.",AI-assisted approximation
+Trinidad,9.94,125.07,1521-03-31T00:00:00Z,Trinidad remains at Mazzava for Easter mass and route arrangements.,AI-assisted approximation
+Trinidad,10.315,123.94,1521-04-07T12:00:00Z,Trinidad enters the port of Cebu.,AI-assisted approximation
+Trinidad,10.31,123.97,1521-04-27T06:00:00Z,Trinidad lies off Mactan during the battle in which Magellan is killed.,AI-assisted approximation
+Trinidad,10.315,123.94,1521-05-01T00:00:00Z,Trinidad is at Cebu during the massacre of expedition officers.,AI-assisted approximation
+Trinidad,9.8,124.2,1521-05-02T00:00:00Z,Trinidad sails toward Bohol after leaving Cebu.,AI-assisted approximation
+Trinidad,7,118.5,1521-05-09T00:00:00Z,"Trinidad anchors near Capyam or Quype, interpreted as the Cagayan Sulu area.",AI-assisted approximation
+Trinidad,9.7,118.7,1521-06-21T00:00:00Z,Trinidad reaches Palawan-area provisioning stops before the Borneo passage.,AI-assisted approximation
+Trinidad,5,115,1521-07-09T00:00:00Z,Trinidad arrives in the Brunei Bay area of Borneo.,AI-assisted approximation
+Trinidad,5,115,1521-07-29T00:00:00Z,Trinidad remains near Borneo during trading and tensions with local vessels.,AI-assisted approximation
+Trinidad,7.2,117.1,1521-08-15T00:00:00Z,Trinidad reaches Port Saint Mary of August near the northern Borneo/Sulu route.,AI-assisted approximation
+Trinidad,5.4,125.4,1521-10-26T00:00:00Z,Trinidad coasts among southern Philippine islands while seeking the Moluccas.,AI-assisted approximation
+Trinidad,0.8,127.4,1521-11-06T00:00:00Z,Trinidad sights the Moluccas before entering Tidore.,AI-assisted approximation
+Trinidad,0.65,127.45,1521-11-08T00:00:00Z,Trinidad reaches Tidore.,Evan Siroky manual entry
+Trinidad,0.65,127.45,1522-02-14T00:00:00Z,Trinidad remains at Tidore during repairs; pilot Juan Lopez Carvalho dies there.,AI-assisted approximation
+Trinidad,0.65,127.45,1522-04-06T00:00:00Z,Trinidad leaves Tidore attempting an eastward return to New Spain.,AI-assisted approximation
+Trinidad,2.5,128.4,1522-04-10T00:00:00Z,Trinidad reaches Zanufo north of Tidore.,AI-assisted approximation
+Trinidad,1.25,128,1522-04-18T00:00:00Z,Trinidad provisions at Camarro or Quimar in the Halmahera area.,AI-assisted approximation
+Trinidad,5,135,1522-05-03T00:00:00Z,Trinidad sights islands of Saint Antony during the attempted Pacific return.,AI-assisted approximation
+Trinidad,19,145,1522-07-11T00:00:00Z,Trinidad reaches Cyco during the attempted Pacific return.,AI-assisted approximation
+Trinidad,42,155,1522-08-15T00:00:00Z,Trinidad reaches about 42 degrees north before storms and illness force a return.,AI-assisted approximation
+Trinidad,13,139,1522-09-15T00:00:00Z,Trinidad reaches Mao or nearby islands on the return toward the Moluccas.,AI-assisted approximation
+Trinidad,1.1,127.5,1522-10-21T00:00:00Z,Trinidad is found near Benaconora or Ternate by the Portuguese.,AI-assisted approximation
+Trinidad,0.8,127.38,1522-10-22T00:00:00Z,Trinidad is taken under Portuguese control at Ternate.,AI-assisted approximation
+Victoria,37.380133,-5.996914,1519-08-10T00:00:00Z,"Victoria departs from Seville, Spain.",Evan Siroky manual entry
+Victoria,36.794,-6.35,1519-08-10T16:00:00Z,"Victoria arrives in Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Victoria,36.794,-6.35,1519-09-20T10:00:00Z,"Victoria departs from Sanlúcar de Barrameda, Spain.",Evan Siroky manual entry
+Victoria,28.47,-16.23,1519-09-26T09:00:00Z,Victoria arrives at Santa Cruz de Tenerife.,Evan Siroky manual entry
+Victoria,28.47,-16.23,1519-09-29T12:00:00Z,Victoria departs from Santa Cruz de Tenerife.,Evan Siroky manual entry
+Victoria,28.04,-16.54,1519-09-29T18:00:00Z,Victoria arrives at 'Monterose'.,Evan Siroky manual entry
+Victoria,28.04,-16.54,1519-10-03T23:59:59Z,Victoria departs from 'Monterose'.,Evan Siroky manual entry
+Victoria,14.9,-23.5,1519-10-18T00:00:00Z,Victoria passes near the Cape Verde Islands without sighting them.,AI-assisted approximation
+Victoria,4,-24,1519-11-08T00:00:00Z,Victoria reaches about 4 degrees north in the Atlantic before turning southwest toward Brazil.,AI-assisted approximation
+Victoria,-8.89,-34.075,1519-11-29T00:00:00Z,Victoria in the vicinity of Cape St Augustine.,Evan Siroky manual entry
+Victoria,-22.88,-42.02,1519-12-09T00:00:00Z,Victoria passes Cape Frio before entering Rio de Janeiro.,AI-assisted approximation
+Victoria,-22.86,-43.16,1519-12-13T00:00:00Z,Victoria arrives at Rio de Janeiro.,Evan Siroky manual entry
+Victoria,-22.86,-43.16,1519-12-27T00:00:00Z,Victoria departs from Rio de Janeiro.,Evan Siroky manual entry
+Victoria,-34.7,-54.1,1520-01-10T00:00:00Z,Victoria in the vicinity of Cape Santa Maria.,Evan Siroky manual entry
+Victoria,-35.1,-56.4,1520-02-02T00:00:00Z,"Victoria leaves the River of Saint Christopher, interpreted as the Rio de la Plata.",AI-assisted approximation
+Victoria,-36,-56.8,1520-02-07T00:00:00Z,Victoria in the vicinity of Cape Santanton.,Evan Siroky manual entry
+Victoria,-36.9,-56.5,1520-02-08T00:00:00Z,Victoria in the vicinity of St. Polonia.,Evan Siroky manual entry
+Victoria,-39,-58,1520-02-15T00:00:00Z,Victoria passes shoals named Shoals of the Currents at about 39 degrees south.,AI-assisted approximation
+Victoria,-45.8,-66.7,1520-03-05T00:00:00Z,Victoria works south along the Patagonian coast toward Port Saint Julian.,AI-assisted approximation
+Victoria,-49.295,-67.719,1520-03-31T00:00:00Z,Victoria arrives at Puerto San Julián.,Evan Siroky manual entry
+Victoria,-49.295,-67.719,1520-08-24T00:00:00Z,Victoria departs from Puerto San Julián.,Evan Siroky manual entry
+Victoria,-50,-68.5,1520-08-26T00:00:00Z,Victoria arrives at Santa Cruz River.,Evan Siroky manual entry
+Victoria,-50,-68.5,1520-10-18T00:00:00Z,Victoria departs from Santa Cruz River.,Evan Siroky manual entry
+Victoria,-52.4,-68.3,1520-10-21T00:00:00Z,Victoria in the vicinity of the Cape of the Eleven Thousand Virgins.,Evan Siroky manual entry
+Victoria,-52.4,-69,1520-10-21T10:00:00Z,Victoria begins waiting in Bahía Posesion.,Evan Siroky manual entry
+Victoria,-52.4,-69,1520-10-23T14:00:00Z,Victoria ends waiting in Bahía Posesion.,Evan Siroky manual entry
+Victoria,-53.15,-70.9,1520-11-01T00:00:00Z,Victoria advances into the Strait of Magellan after the first narrows.,AI-assisted approximation
+Victoria,-53.45,-72.1,1520-11-10T00:00:00Z,Victoria proceeds through the central Strait of Magellan.,AI-assisted approximation
+Victoria,-53.85,-73.7,1520-11-21T00:00:00Z,Victoria approaches the western channels and Cape Desire.,AI-assisted approximation
+Victoria,-52.7,-74.7,1520-11-28T00:00:00Z,Victoria exits the Strait of Magellan into the Pacific.,AI-assisted approximation
+Victoria,-15,-138.8,1521-01-24T00:00:00Z,Victoria sights San Pablo Island during the Pacific crossing.,AI-assisted approximation
+Victoria,-11.4,-151.8,1521-02-04T00:00:00Z,Victoria sights Tiburones Island during the Pacific crossing.,AI-assisted approximation
+Victoria,13.3,144.65,1521-03-06T00:00:00Z,"Victoria arrives at the Ladrones, interpreted as Guam.",AI-assisted approximation
+Victoria,13.3,144.65,1521-03-09T00:00:00Z,Victoria departs the Ladrones after recovering the ship's skiff.,AI-assisted approximation
+Victoria,10.75,125.72,1521-03-16T00:00:00Z,Victoria reaches the Archipelago of Saint Lazarus at Homonhon.,AI-assisted approximation
+Victoria,9.94,125.07,1521-03-28T00:00:00Z,"Victoria reaches Mazzava, interpreted as Limasawa.",AI-assisted approximation
+Victoria,9.94,125.07,1521-03-31T00:00:00Z,Victoria remains at Mazzava for Easter mass and route arrangements.,AI-assisted approximation
+Victoria,10.315,123.94,1521-04-07T12:00:00Z,Victoria enters the port of Cebu.,AI-assisted approximation
+Victoria,10.315,123.94,1521-04-27T00:00:00Z,"Victoria in the Philippines, continues journey after Magellan's death.",Evan Siroky manual entry
+Victoria,10.31,123.97,1521-04-27T06:00:00Z,Victoria lies off Mactan during the battle in which Magellan is killed.,AI-assisted approximation
+Victoria,10.315,123.94,1521-05-01T00:00:00Z,Victoria is at Cebu during the massacre of expedition officers.,AI-assisted approximation
+Victoria,9.8,124.2,1521-05-02T00:00:00Z,Victoria sails toward Bohol after leaving Cebu.,AI-assisted approximation
+Victoria,7,118.5,1521-05-09T00:00:00Z,"Victoria anchors near Capyam or Quype, interpreted as the Cagayan Sulu area.",AI-assisted approximation
+Victoria,9.7,118.7,1521-06-21T00:00:00Z,Victoria reaches Palawan-area provisioning stops before the Borneo passage.,AI-assisted approximation
+Victoria,5,115,1521-07-09T00:00:00Z,Victoria arrives in the Brunei Bay area of Borneo.,AI-assisted approximation
+Victoria,5,115,1521-07-29T00:00:00Z,Victoria remains near Borneo during trading and tensions with local vessels.,AI-assisted approximation
+Victoria,7.2,117.1,1521-08-15T00:00:00Z,Victoria reaches Port Saint Mary of August near the northern Borneo/Sulu route.,AI-assisted approximation
+Victoria,5.4,125.4,1521-10-26T00:00:00Z,Victoria coasts among southern Philippine islands while seeking the Moluccas.,AI-assisted approximation
+Victoria,0.8,127.4,1521-11-06T00:00:00Z,Victoria sights the Moluccas before entering Tidore.,AI-assisted approximation
+Victoria,0.65,127.45,1521-11-08T00:00:00Z,Victoria reaches Tidore.,Evan Siroky manual entry
+Victoria,0.65,127.45,1521-12-21T00:00:00Z,Victoria leaves Tidore.,Evan Siroky manual entry
+Victoria,-3.4,127.1,1521-12-27T00:00:00Z,Victoria passes Buru and Ambon after leaving the Moluccas.,AI-assisted approximation
+Victoria,-6.2,129.8,1522-01-02T00:00:00Z,Victoria continues southwest through the Banda Sea.,AI-assisted approximation
+Victoria,-8.5,125.8,1522-01-25T00:00:00Z,Victoria reaches Timor.,AI-assisted approximation
+Victoria,-9.4,124.1,1522-02-08T00:00:00Z,Victoria is near the western end of Timor.,AI-assisted approximation
+Victoria,-10.5,123.2,1522-02-11T00:00:00Z,Victoria leaves Timor for the Indian Ocean.,AI-assisted approximation
+Victoria,-37.85,77.55,1522-03-18T00:00:00Z,Victoria sights Amsterdam Island in the southern Indian Ocean.,AI-assisted approximation
+Victoria,-33.5,27.1,1522-05-08T00:00:00Z,Victoria sights the South African coast east of the Cape near the Great Fish River.,AI-assisted approximation
+Victoria,-35.7,18,1522-05-16T00:00:00Z,Victoria is west-northwest/east-southeast with the Cape of Good Hope before doubling it.,AI-assisted approximation
+Victoria,-34.36,18.47,1522-05-19T00:00:00Z,Victoria doubles the Cape of Good Hope.,AI-assisted approximation
+Victoria,14.92,-23.51,1522-07-09T00:00:00Z,Victoria anchors at Santiago in the Cape Verde Islands.,AI-assisted approximation
+Victoria,14.92,-23.51,1522-07-15T00:00:00Z,Victoria departs Santiago in the Cape Verde Islands after Portuguese detention of the boat crew.,AI-assisted approximation
+Victoria,36.794,-6.35,1522-09-06T00:00:00Z,Victoria enters Sanlúcar de Barrameda before proceeding to Seville.,AI-assisted approximation
+Victoria,37.380133,-5.996914,1522-09-08T00:00:00Z,"Victoria returns to Seville, Spain, completing the circumnavigation.",Evan Siroky manual entry
